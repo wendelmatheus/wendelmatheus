@@ -1,12 +1,12 @@
-### Olá, Mundo!  🌎
+### Hello World!  🌎
 
-- 🌐 Desenvolvedor Next
-- 🎨 Programador Python
-- 👉 Banco de Dados PostgreSQL
-- 👉 Excel Avançado
+- 🌐 Developer Next
+- 📱 Developer Flutter
+- 🎨 Programmer Python
+- 👉 Database PostgreSQL
+- 👉 Advanced Excel
 - 📫 e-mail: wendeltel6a@gmail.com
-- 🇧🇷 site: https://wendel.netlify.app/
-- 💬 "O passado é história, o futuro é mistério, e hoje é uma dádiva. Por isso é chamado de presente!"
+- 🇧🇷 website: https://wendel.netlify.app/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wendel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
