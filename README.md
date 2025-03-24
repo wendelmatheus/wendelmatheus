@@ -7,7 +7,7 @@
 - 👉 Database PostgreSQL
 - 👉 Advanced Excel
 - 📫 e-mail: wendeltel6a@gmail.com
-- 🇧🇷 website: thttps://hello-wendel.netlify.app
+- 🇧🇷 website: https://hello-wendel.netlify.app
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wendel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
