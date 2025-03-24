@@ -1,12 +1,13 @@
 ### Hello World!  🌎
 
-- 🌐 Developer Next
-- 📱 Developer Flutter
+- 🌐 Developer NextJS/ReactJS
+- 🍃 Spring Framework for backend
+- 📱 Mobile Development with Flutter
 - 🎨 Programmer Python
 - 👉 Database PostgreSQL
 - 👉 Advanced Excel
 - 📫 e-mail: wendeltel6a@gmail.com
-- 🇧🇷 website: https://wendel.netlify.app/
+- 🇧🇷 website: thttps://hello-wendel.netlify.app
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wendel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
